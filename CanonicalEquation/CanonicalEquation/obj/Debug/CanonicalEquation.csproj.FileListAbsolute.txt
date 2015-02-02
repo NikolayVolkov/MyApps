@@ -1,0 +1,18 @@
+c:\users\omkol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.exe.config
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.exe
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.pdb
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.csprojResolveAssemblyReference.cache
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.Properties.Resources.resources
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.csproj.GenerateResource.Cache
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.exe
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.pdb
+C:\Users\OmKol\documents\visual studio 2013\Projects\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.Form1.resources
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.exe.config
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.exe
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.pdb
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.exe
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\bin\Debug\CanonicalEquation.pdb
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.csprojResolveAssemblyReference.cache
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.Form1.resources
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.Properties.Resources.resources
+C:\Users\Николай\Desktop\CanonicalEquation\CanonicalEquation\obj\Debug\CanonicalEquation.csproj.GenerateResource.Cache
