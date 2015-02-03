@@ -1,0 +1,176 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BrickGame */ = {
+		activeExec = 0;
+		executables = (
+			8C8D74D313D0795500E02CC4 /* BrickGame */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* BrickGameAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 2145}}";
+			sepNavSelRange = "{319, 0}";
+			sepNavVisRange = "{0, 1496}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* BrickGameAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 560}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 471}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8C8D74D313D0795500E02CC4 /* BrickGame */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BrickGame */;
+		codeSenseManager = 8C8D74E813D0797400E02CC4 /* Code sense */;
+		executables = (
+			8C8D74D313D0795500E02CC4 /* BrickGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332429653;
+			PBXWorkspaceStateSaveDate = 332429653;
+		};
+		perUserProjectItems = {
+			8C8D74F113D07A8500E02CC4 /* PBXTextBookmark */ = 8C8D74F113D07A8500E02CC4 /* PBXTextBookmark */;
+			8C8D74F213D07A8500E02CC4 /* PBXTextBookmark */ = 8C8D74F213D07A8500E02CC4 /* PBXTextBookmark */;
+			8C8D74F313D07A8500E02CC4 /* PBXTextBookmark */ = 8C8D74F313D07A8500E02CC4 /* PBXTextBookmark */;
+			8C8D74F413D07A8500E02CC4 /* XCBuildMessageTextBookmark */ = 8C8D74F413D07A8500E02CC4 /* XCBuildMessageTextBookmark */;
+			8C8D74F513D07A8500E02CC4 /* PBXTextBookmark */ = 8C8D74F513D07A8500E02CC4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8C8D74E713D0797400E02CC4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* HelloWorldScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 560}}";
+			sepNavSelRange = "{333, 0}";
+			sepNavVisRange = "{0, 583}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* HelloWorldScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 871}}";
+			sepNavSelRange = "{1525, 0}";
+			sepNavVisRange = "{1175, 355}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	8C8D74D313D0795500E02CC4 /* BrickGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BrickGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8C8D74E713D0797400E02CC4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8C8D74E813D0797400E02CC4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8C8D74F113D07A8500E02CC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* HelloWorldScene.h */;
+		name = "HelloWorldScene.h: 19";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 0;
+	};
+	8C8D74F213D07A8500E02CC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* BrickGameAppDelegate.h */;
+		name = "BrickGameAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 0;
+	};
+	8C8D74F313D07A8500E02CC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* BrickGameAppDelegate.m */;
+		name = "BrickGameAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 1496;
+		vrLoc = 0;
+	};
+	8C8D74F413D07A8500E02CC4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Property 'jjjj' requires method '-jjjj' to be defined - use @synthesize, @dynamic or provide a method implementation";
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 65;
+		rType = 1;
+	};
+	8C8D74F513D07A8500E02CC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.m */;
+		name = "HelloWorldScene.m: 66";
+		rLen = 0;
+		rLoc = 1525;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 191;
+	};
+}

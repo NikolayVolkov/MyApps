@@ -1,0 +1,14 @@
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m: In function '-[BrickGameAppDelegate applicationDidEnterBackground:]':
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:231: error: 'trmap' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:231: error: (Each undeclared identifier is reported only once
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:231: error: for each function it appears in.)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:239: error: 'TanksPosition' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:247: error: 'TanksBullets' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:254: error: 'EnemyTankMove' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:254: error: 'BulletTime' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m: In function '-[BrickGameAppDelegate applicationWillTerminate:]':
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:370: error: 'trmap' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:378: error: 'TanksPosition' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:386: error: 'TanksBullets' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:393: error: 'EnemyTankMove' undeclared (first use in this function)
+/Users/svp/Documents/BrickGame/BrickGame/Classes/BrickGameAppDelegate.m:393: error: 'BulletTime' undeclared (first use in this function)
